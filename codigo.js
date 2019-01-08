@@ -1,5 +1,6 @@
 $(function() {
     
+    
    //Ocultar bloque
     $("#b1").click(function() {
         $("#bloque").hide(1500);
