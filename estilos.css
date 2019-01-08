@@ -1,0 +1,37 @@
+.btns {
+			width: 180px;
+			background-color: #29447e;
+			border: 0;
+			padding: 6px 18px 6px 18px;
+			font-size: 0.9em;
+			cursor: pointer;
+			margin: 6px 0 6px 0;
+			font-weight: bold;
+			color: #FFFFFF;
+		}
+		
+		button {
+			text-rendering: auto;
+			color: initial;
+			letter-spacing: normal;
+			word-spacing: normal;
+			text-transform: none;
+			text-indent: 0px;
+			text-shadow: none;
+			display: inline-block;
+			text-align: start;
+			margin: 0em;
+			font: 400 13.3333px Arial;
+			text-align: center;
+		}
+		
+		#bloque {
+			width: 260px;
+			background-color: #d4eefd;
+			padding: 16px;
+			margin: 12px 0 12px 0;
+			border-radius: 10px;
+			font-size: 1.2em;
+			position: relative;
+			text-align: center;
+		}
